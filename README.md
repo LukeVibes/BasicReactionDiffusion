@@ -1,51 +1,23 @@
-# Project Title
+# Cool Reaction Formation Pattern Maker
 
-One Paragraph of project description goes here
+A simple proceduerally driven visual art pattern, inspired by reaction formation found in biology.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Simply open the pde files in Processing 3 enviroment, run, and enjoy. It is important to know that this version is slow, the larger the window, the slower it takes. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
+Just make sure you have Processing 3 enviotnment and Java and you should be ready to party.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Luke Daschko** - *developer* 
+See also the list of acknowledgments bellow.
 
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Daniel Shiffman and the people at Code Train, awesome tutorials that helped out!
+* Inspiration: https://www.youtube.com/watch?v=BV9ny785UNc
+* Reaction Diffusion formula: http://karlsims.com/rd.html
